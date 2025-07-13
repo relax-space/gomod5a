@@ -1,5 +1,5 @@
 package gomod5a
 
 func AddA(a, b int) int {
-	return a + b + 200
+	return a + b + 500
 }
